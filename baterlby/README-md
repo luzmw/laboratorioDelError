@@ -1,0 +1,8 @@
+# Baterbly — a language that sometimes prefers not to
+
+Prototipo de lenguaje/VM que incorpora la negativa suave (“preferiría no hacerlo”).
+Útil para explorar pausa, ética y no-productividad en flujos y arte tecnológico.
+
+## Ejecutar (local)
+```bash
+python baterbly.py examples/hello.btb
