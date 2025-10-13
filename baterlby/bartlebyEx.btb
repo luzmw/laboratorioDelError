@@ -1,0 +1,10 @@
+SAY "texto"
+DO  "tarea"
+WAIT ms
+ASK "pregunta?"
+PAUSE
+END
+
+modificadores
+!  → urgencia
+?  → incertidumbre
